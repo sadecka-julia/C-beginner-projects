@@ -1,0 +1,21 @@
+# ninja log v5
+0	206	6698148400987383	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+207	417	6698148403075045	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+1	77	6698149567525389	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+77	170	6698149568433333	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+1	112	6698150792422761	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+112	252	6698150793805053	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+1	111	6698151815760693	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+112	251	6698151817141682	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+2	113	6698153077338450	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+113	255	6698153078735054	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+1	98	6698153345408389	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+98	227	6698153346655574	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+2	233	6698155175704156	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+233	377	6698155177114211	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+2	99	6698155597670841	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+100	228	6698155598925567	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+2	465	6698155953529330	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+465	595	6698155954838713	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
+2	685	6698162203842807	CMakeFiles/drugi_projekt_kalkulator.dir/main.c.obj	f31d7faf68e1889f
+685	830	6698162205259165	drugi_projekt_kalkulator.exe	fd4cc3347d7c3bd7
